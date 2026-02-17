@@ -1,5 +1,7 @@
 # LockWire Labs
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironcelll-Interactive&label=Profile%20views&color=0e75b6&style=flat" alt="ironcelll-Interactive" /> </p>
+<a href="https://www.github.com/ironcelll-Interactive" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ironcelll-Interactive?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 <br clear="both">
 
